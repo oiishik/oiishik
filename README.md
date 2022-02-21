@@ -18,17 +18,17 @@
         src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png"
         alt="oiishik"
         height="20"
-        width="22"
+        width="20"
       /> : oishik8sengupta@gmail.com<br />
       - <img
         align="center"
         src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"
         alt="oiishik"
-        height="20"
+        height="15"
         width="20"
       /> : @oishiksengupta<br />
     </p>
-    <h3>Currently learning 📕</h3>
+    <h3> Currently learning 📕</h3>
     <hr>
     <p>
       - 😎 SAAS to make my CSS look more <i>sassy</i><br />
