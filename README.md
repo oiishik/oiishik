@@ -1,33 +1,160 @@
-<h1 align="center">Hi 👋, I'm Oishik Sengupta</h1>
-<h3 align="center">A Web Dev Enthusiast aspiring to be a Front-End Developer</h3>
-
-<p align="left"> <a href="https://twitter.com/oiishik" target="blank"><img src="https://img.shields.io/twitter/follow/oiishik?logo=twitter&style=for-the-badge" alt="oiishik" /></a> </p>
-
-- 🌱 I’m currently learning **SASS, React.js**
-
-- 👨‍💻 All of my projects are available at [https://github.com/oiishik?tab=repositories](https://github.com/oiishik?tab=repositories)
-
-- 💬 Ask me about **HTML,CSS,JS (Frontend Development)**
-
-- 📫 How to reach me **oishik8sengupta@gmail.com**
-
-- ⚡ Fun fact **I also am a content creator on platforms like Facebook, YouTube, Instagram**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/oiishik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="oiishik" height="30" width="40" /></a>
-<a href="https://twitter.com/oiishik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oiishik" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/oishiksengupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oishiksengupta" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17285108/oiishik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="oiishik" height="30" width="40" /></a>
-<a href="https://fb.com/oiishik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oiishik" height="30" width="40" /></a>
-<a href="https://instagram.com/oiishik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oiishik" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/oiishik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="oiishik" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/oiishik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oiishik" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oiishik&show_icons=true&locale=en&layout=compact" alt="oiishik" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oiishik&show_icons=true&locale=en" alt="oiishik" /></p>
+   <h1 align="center">Hello 👋, I'm Oishik Sengupta</h1>
+    <h3 align="center">
+      <i>A Web Dev Enthusiast aspiring to be a Front-End Developer</i>
+    </h3>
+    <br />
+    <h3>About me</h3>
+    <hr>
+    <p>
+      - 👨‍💻 Currenly writing HTML code with proper semantics<br />
+      - 🆒 Making it look cool with some CSS <br />
+      - 🍨 Consoling my JavaScript bugs <br />
+    </p>
+    <h3>Contact Me 📞</h3>
+    <hr>
+    <p>
+      <img
+        align="center"
+        src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png"
+        alt="oiishik"
+        height="20"
+        width="22"
+      /> : oishik8sengupta@gmail.com<br />
+      <img
+        align="center"
+        src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"
+        alt="oiishik"
+        height="20"
+        width="20"
+      /> : @oishiksengupta<br />
+    </p>
+    <h3>Currently learning 📕</h3>
+    <hr>
+    <p>
+      - 😎 SAAS to make my CSS look more <i>sassy</i><br />
+      - ⚛️ React.js <i>(after I finish learning Git)</i>
+    </p>
+    <h3>Can Also 💪</h3>
+    <hr>
+    <p>
+      - 📹 Make some cool videos on Adobe Premiere Pro and Adobe After
+      Effects<br />
+      - 📷 Edit your photos on Adobe Photoshop <br />
+      - 😆 Make you laugh with some of my memes. <br />
+    </p>
+    <h3>Skills ✨</h3><hr>
+    <h4>Languages-</h4>
+     <a href="#">
+        <img
+      align="center"
+      src="https://img.icons8.com/color/48/000000/html-5--v1.png"
+      alt="oiishik"
+      margin="0 10px"
+      height="20"
+      width="20"
+    />
+    </a>
+    <a href="#">
+        <img
+        align="center"
+        src="https://img.icons8.com/color/48/000000/css3.png"
+        alt="oiishik"
+        margin="0 10px"
+        height="22"
+        width="20"
+      />  
+    </a>
+    <a href="#">
+        <img
+        align="center"
+        src="https://img.icons8.com/color/48/000000/javascript--v1.png"
+        alt="oiishik"
+        margin="0 10px"
+        height="20"
+        width="20"
+      />
+    </a>
+    <a href="#">
+        <img
+      align="center"
+      src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+      alt="oiishik"
+      margin="0 10px"
+      height="20"
+      width="20"
+    />
+    </a>
+    <h4>Libraries-</h4>
+    <img
+      alt="oiishik"
+      margin="0 10px"
+      height="20"
+      width="20"
+      align="center"
+      src="https://img.icons8.com/office/16/000000/react.png"
+    />
+    <h4>Preprocessor-</h4>
+    <img
+      alt="oiishik"
+      margin="0 10px"
+      height="20"
+      width="20"
+      align="center"
+      src="https://img.icons8.com/color/48/000000/sass.png"
+    />
+    <h3>Connect With Me On 📱</h3><hr>
+    <p>
+      <a href="https://instagram.com/oiishik" target="_blank"
+        ><img
+          align="center"
+          src="https://img.icons8.com/fluency/48/000000/instagram-new.png"
+          alt="oiishik"
+          margin="0 10px"
+          height="20"
+          width="20"
+      /></a>
+      <a href="https://twitter.com/oiishik" target="_blank"
+        ><img
+          align="center"
+          src="https://img.icons8.com/color/48/000000/twitter--v2.png"
+          alt="oiishik"
+          margin="0 10px"
+          height="20"
+          width="20"
+      /></a>
+      <a href="https://facebook.com/oiishik" target="_blank"
+        ><img
+          align="center"
+          src="https://img.icons8.com/fluency/48/000000/facebook-new.png"
+          alt="oiishik"
+          margin="0 10px"
+          height="20"
+          width="20"
+      /></a>
+      <a href="https://youtube.com/oiishik" target="_blank"
+        ><img
+          align="center"
+          src="https://img.icons8.com/color/48/000000/youtube-play.png"
+          alt="oiishik"
+          margin="0 30px"
+          height="20"
+          width="20"
+      /></a>
+    </p>
+    <h3> GitHub Stats 📊 </h3><hr>
+    <p>
+      <img
+        align="left"
+        margin="0 15px"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=oiishik&show_icons=true&locale=en&layout=compact"
+        alt="oiishik"
+      />
+    </p>
+    <p>
+      &nbsp;<img
+        align="left"
+        margin="0 15px"
+        src="https://github-readme-stats.vercel.app/api?username=oiishik&show_icons=true&locale=en"
+        alt="oiishik"
+      />
+    </p>
