@@ -13,14 +13,14 @@
     <h3>Contact Me 📞</h3>
     <hr>
     <p>
-      <img
+      - <img
         align="center"
         src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png"
         alt="oiishik"
         height="20"
         width="22"
       /> : oishik8sengupta@gmail.com<br />
-      <img
+      - <img
         align="center"
         src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"
         alt="oiishik"
@@ -43,7 +43,7 @@
       - 😆 Make you laugh with some of my memes. <br />
     </p>
     <h3>Skills ✨</h3><hr>
-    <h4>Languages-</h4>
+    <h4>- Languages</h4>
      <a href="#">
         <img
       align="center"
@@ -84,7 +84,7 @@
       width="20"
     />
     </a>
-    <h4>Libraries-</h4>
+    <h4>- Libraries</h4>
     <img
       alt="oiishik"
       margin="0 10px"
@@ -93,7 +93,7 @@
       align="center"
       src="https://img.icons8.com/office/16/000000/react.png"
     />
-    <h4>Preprocessor-</h4>
+    <h4>- Preprocessor</h4>
     <img
       alt="oiishik"
       margin="0 10px"
