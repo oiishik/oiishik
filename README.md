@@ -1,7 +1,10 @@
    <h1 align="center">Hello 👋, I'm Oishik Sengupta</h1>
     <h3 align="center">
-      <i>A Web Dev Enthusiast aspiring to be a Front-End Developer</i>
+      <i>An Aspiring Web Developer</i>
     </h3>
+    <div id="header" align="center">
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+   </div>
     <br />
     <h3>About me</h3>
     <hr>
@@ -27,12 +30,6 @@
         height="15"
         width="20"
       /> : @oishiksengupta<br />
-    </p>
-    <h3> Currently learning 📕</h3>
-    <hr>
-    <p>
-      - 😎 SAAS to make my CSS look more <i>sassy</i><br />
-      - ⚛️ React.js <i>(after I finish learning Git)</i>
     </p>
     <h3>Can Also 💪</h3>
     <hr>
@@ -84,24 +81,37 @@
       width="20"
     />
     </a>
-    <h4>- Libraries</h4>
-    <img
-      alt="oiishik"
-      margin="0 10px"
-      height="20"
-      width="20"
+    <h4>-Frameworks & Libraries</h4>
+    <a href="#">
+      <img
       align="center"
       src="https://img.icons8.com/office/16/000000/react.png"
-    />
-    <h4>- Preprocessor</h4>
-    <img
       alt="oiishik"
       margin="0 10px"
       height="20"
       width="20"
+      />
+   </a>
+   <a href="#">
+      <img
       align="center"
-      src="https://img.icons8.com/color/48/000000/sass.png"
-    />
+      src="https://i0.wp.com/e4developer.com/wp-content/uploads/2018/01/spring-boot.png?w=810&ssl=1"
+      alt="oiishik"
+      margin="0 10px"
+      height="25"
+      width="40"
+      />
+   </a>
+   <a href="#">
+      <img
+      align="center"
+      src="https://img.icons8.com/color/452/mysql-logo.png"
+      alt="oiishik"
+      margin="0 10px"
+      height="25"
+      width="40"
+      />
+   </a>
     <h3>Connect With Me On 📱</h3><hr>
     <p>
       <a href="https://instagram.com/oiishik" target="_blank"
@@ -141,20 +151,4 @@
           width="20"
       /></a>
     </p>
-    <h3> GitHub Stats 📊 </h3><hr>
-    <p>
-      <img
-        align="left"
-        margin="0 15px"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=oiishik&show_icons=true&locale=en&layout=compact"
-        alt="oiishik"
-      />
-    </p>
-    <p>
-      &nbsp;<img
-        align="left"
-        margin="0 15px"
-        src="https://github-readme-stats.vercel.app/api?username=oiishik&show_icons=true&locale=en"
-        alt="oiishik"
-      />
-    </p>
+   
