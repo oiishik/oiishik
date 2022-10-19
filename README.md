@@ -9,7 +9,7 @@
    </div>
     <br />
 
-- 🌱 I’m currently learning **Spring Boot, React.js, Angular, Node.js**
+- 🌱 I’m currently learning **Spring Boot, React.js, Node.js**
 
 - 📫 Mail: **oishik8sengupta@gmail.com**
 
